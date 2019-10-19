@@ -1,3 +1,7 @@
+This is the second category for the Bank of Singapore.
+
+Our submission and demostration for category 3: https://github.com/lionellloh/code-boss
+
 # Part I - Data Cleansing
 
 You may also refer to https://github.com/tonghuikang/codeboss-data
