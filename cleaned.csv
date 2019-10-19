@@ -166,7 +166,7 @@
 168,C32104,SG - Singapore,3958 6986,True,False,False,False,39586986
 169,C13419,SG - Singapore,(65) 86151732,True,False,True,False,86151732
 170,C42683,SG - Singapore,(+65) 83171329-,True,False,True,False,83171329
-171,C14222,,38379546,True,False,False,False,38379546
+171,C14222,SG - Singapore,38379546,True,False,True,False,38379546
 172,C27527,SG - Singapore,0x5180FE7,True,True,False,False,85463015
 173,C46852,SG - Singapore,6752 2395,True,False,False,False,67522395
 174,C08270,SG - Singapore,0x4272388,True,True,False,False,69673864
@@ -289,7 +289,7 @@
 292,C05763,SG - Singapore,(65) 83452038,True,False,True,False,83452038
 293,C47491,SG - Singapore,917206778,False,False,False,False,917206778
 294,C10741,SG - Singapore,+65 94936087,True,False,True,False,94936087
-295,C10515,,86655642,True,False,False,False,86655642
+295,C10515,SG - Singapore,86655642,True,False,True,False,86655642
 296,C49175,SG - Singapore,+65 84988591,True,False,True,False,84988591
 297,C45327,SG - Singapore,69971084,True,False,False,False,69971084
 298,C28057,SG - Singapore,(65) 31905025,True,False,True,False,31905025
@@ -439,7 +439,7 @@
 445,C37970,SG - Singapore,39947342,True,False,False,False,39947342
 446,C05108,SG - Singapore,89604211,True,False,False,False,89604211
 448,C16660,SG - Singapore,(65) 83803629,True,False,True,False,83803629
-449,C16771,,9644 1351,True,False,False,False,96441351
+449,C16771,SG - Singapore,9644 1351,True,False,True,False,96441351
 450,C04418,SG - Singapore,(65) 92160716,True,False,True,False,92160716
 451,C07949,SG - Singapore,,False,False,False,False,
 452,C36212,SG - Singapore,31548444,True,False,False,False,31548444
@@ -513,7 +513,7 @@
 520,C41741,SG - Singapore,31089860,True,False,False,False,31089860
 521,C12282,SG - Singapore,6429 5836,True,False,False,False,64295836
 522,C45671,SG - Singapore,34393032,True,False,False,False,34393032
-523,C36601,,33920170,True,False,False,False,33920170
+523,C36601,SG - Singapore,33920170,True,False,True,False,33920170
 524,C22592,SG - Singapore,3604363,False,False,False,False,3604363
 525,C27134,SG - Singapore,9357 2017,True,False,False,False,93572017
 526,C47903,SG - Singapore,31511689,True,False,False,False,31511689
@@ -554,7 +554,7 @@
 561,C36295,SG - Singapore,92913718,True,False,False,False,92913718
 562,C36817,SG - Singapore,(65) 85995738,True,False,True,False,85995738
 563,C22183,SG - Singapore,6555393,False,False,False,False,6555393
-564,C16490,,96059468,True,False,False,False,96059468
+564,C16490,SG - Singapore,96059468,True,False,True,False,96059468
 565,C15449,SG - Singapore,(+65) 85027242,True,False,True,False,85027242
 566,C35590,SG - Singapore,9152 3120,True,False,False,False,91523120
 567,C20102,SG - Singapore,93233999,True,False,False,False,93233999
@@ -578,7 +578,7 @@
 585,C04419,SG - Singapore,(65) 36079210,True,False,True,False,36079210
 586,C25117,SG - Singapore,3871-2420,True,False,False,False,38712420
 587,C49550,SG - Singapore,+65 62249918,True,False,True,False,62249918
-588,C15776,,36886009,True,False,False,False,36886009
+588,C15776,SG - Singapore,36886009,True,False,True,False,36886009
 589,C33324,SG - Singapore,64074036,True,False,False,False,64074036
 590,C06790,SG - Singapore,82721658,True,False,False,False,82721658
 591,C34165,SG - Singapore,3789 1672,True,False,False,False,37891672
@@ -661,7 +661,7 @@
 671,C02789,SG - Singapore,(+65) 97902101,True,False,True,False,97902101
 672,C10928,SG - Singapore,69972528,True,False,False,False,69972528
 673,C40576,SG - Singapore,3513 783,False,False,False,False,3513783
-674,C23624,,97824216,True,False,False,False,97824216
+674,C23624,SG - Singapore,97824216,True,False,True,False,97824216
 675,C22789,SG - Singapore,(+65) 33596142,True,False,True,False,33596142
 676,C47817,SG - Singapore,(+65) 96395445,True,False,True,False,96395445
 677,C21382,SG - Singapore,+65 32783105,True,False,True,False,32783105
@@ -778,7 +778,7 @@
 790,C09049,SG - Singapore,+65 68747546,True,False,True,False,68747546
 791,C38082,SG - Singapore,8286 7933,True,False,False,False,82867933
 792,C36455,SG - Singapore,6725 6622,True,False,False,False,67256622
-793,C24922,,9635 6244,True,False,False,False,96356244
+793,C24922,SG - Singapore,9635 6244,True,False,True,False,96356244
 794,C01723,SG - Singapore,99066167,True,False,False,False,99066167
 795,C43894,SG - Singapore,8334 269,False,False,False,False,8334269
 796,C00548,SG - Singapore,61464846,True,False,False,False,61464846
@@ -987,8 +987,8 @@
 1001,C39922,SG - Singapore,64607847,True,False,False,True,64607847
 1002,C06999,SG - Singapore,(+65)92783680,True,False,True,True,92783680
 1003,C06999,SG - Singapore,,False,False,False,True,
-1004,C39633,,85242285,True,False,False,True,85242285
-1005,C39633,,66118302,True,False,False,True,66118302
+1004,C39633,SG - Singapore,85242285,True,False,True,True,85242285
+1005,C39633,SG - Singapore,66118302,True,False,True,True,66118302
 1006,C17972,SG - Singapore,63392801,True,False,False,True,63392801
 1007,C17972,SG - Singapore,63392802,True,False,False,True,63392802
 1008,C17972,SG - Singapore,63392803,True,False,False,True,63392803
