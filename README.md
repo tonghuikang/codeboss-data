@@ -14,7 +14,7 @@ You will be evaluated in terms of:
 | Provide 5 findings and solutions                             | 18 points |
 | Cleanse the Singapore phone number and output to [Cleansed] tab | 42 points |
 
-Following are the five findings. The processing is done in a [notebook](./cleanse.ipynb). The output is [cleansed.csv](./cleansed.csv), which is copied to the input excel file.
+Following are the five findings. We first extract the phone list to a [csv file](./phone_list.csv). The processing is done in a [notebook](./cleanse.ipynb). The output is [cleansed.csv](./cleansed.csv), which is copied to the input excel file.
 
 ### Multiple phone numbers 
 
@@ -46,4 +46,5 @@ We want to retain the original information for checking. We also have indicators
 
 # Part II - Prediction model
 
-For Part II, please read [https://www.kaggle.com/huikang/housing-model](https://www.kaggle.com/huikang/housing-model/edit).
+For Part II, please refer to [https://www.kaggle.com/huikang/housing-model](https://www.kaggle.com/huikang/housing-model/edit).
+
