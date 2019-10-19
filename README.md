@@ -47,4 +47,3 @@ We want to retain the original information for checking. We also have indicators
 # Part II - Prediction model
 
 For Part II, please refer to [https://www.kaggle.com/huikang/housing-model](https://www.kaggle.com/huikang/housing-model/edit).
-
