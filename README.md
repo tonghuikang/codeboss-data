@@ -1,5 +1,7 @@
 # Part I - Data Cleansing
 
+You may also refer to https://github.com/tonghuikang/codeboss-data
+
 **Part I - Phone number data cleansing (60 points)**
 
 Given the phone number dataset ([Phone Numbers.xlsx](https://hackertrail.s3.amazonaws.com/assets/code-boss/Phone_Numbers.xlsx)), identify and reformat the Singapore phone number:
